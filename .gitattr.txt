@@ -1,0 +1,32 @@
+[{
+	"type": "update_check",
+	"code": "2",
+	"name": "1.0.3",
+	"mandatory": "false",
+	"description": "What's new in v1.0.3 \n 1. Minor bug fixes for some devices \n 2. Added delete button ",
+         "link": "https://omkar-tenkale.github.io/papers/apk.apk",
+	 "dbcode": "3",
+	"dblink": "https://omkar-tenkale.github.io/papers/core.db"
+
+}, {
+	"type": "feed_item",
+	"layout": "feed_simple_notice",
+	"title": "New Papers Added",
+	"description": "EM SHU205 2013 CT2 sPapers",
+	"onclick": "India"
+}, {
+	"type": "feed_item",
+	"layout": "feed_simple_notice",
+	"title": "Hello Tanuja Tenkale",
+	"description": "Kasa Ahe app ?",
+	"onclick": "India"
+}
+{
+	"type": "meta",
+	"1":"",
+"2":"",
+"3":"",
+"4":"",
+"5":""
+}
+]
